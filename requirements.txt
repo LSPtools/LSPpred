@@ -1,0 +1,4 @@
+pandas
+biopython
+scikit-learn==0.21.2
+imbalanced-learn==0.5.0
