@@ -47,6 +47,35 @@ optional arguments:
 ```
 
 
+## Installation
+
+
+`LSPpred` can be run from the command line. 
+
+## Web server
+
+A webserver is available at: http://lsppred.lspdb.org/
+
+## Requirements
+
+`LSPpred` requires the followinf packages to be isntalled, as outlined in `requiremetns.txt`:
+
+- tabulate
+- pandas
+- biopython
+- scikit-learn==0.21.2
+- imbalanced-learn==0.5.0
+
+Additionally [PROfet](https://github.com/ddofer/ProFET) by Ofer and  Linial is required to be available in the `src` directory. As a convience, the required files are included in this repository. 
+
+```
+Ofer, Dan, and Michal Linial. "ProFET: Feature engineering captures high-level protein functions." Bioinformatics (2015): btv345.
+```
+
+## Docker
+
+
+
 ## Citation
 
 ```
