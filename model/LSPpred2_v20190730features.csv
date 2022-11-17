@@ -1,0 +1,302 @@
+Features
+A Entropy
+AA: A Frequency
+AA: C Frequency
+AA: D Frequency
+AA: G Frequency
+AA: H Frequency
+AA: I Frequency
+AA: M Frequency
+AA: S Frequency
+AA: V Frequency
+ASAInTripeptide aaScale - Window size:17 Average-Trimmed MAX
+ASAInTripeptide aaScale - Window size:17 Average-Trimmed MIN
+ASAInTripeptide aaScale - Window size:7 Average-Trimmed MAX
+ASAInTripeptide aaScale - Window size:7 Average-Trimmed MIN
+ASAInTripeptide aaScale - Window size:7 MAXIMUM 
+ASAInTripeptide aaScale - Window size:7 Trimmed Average
+"Binary AutoCorrellation (K,R):  Lag:2"
+"Binary AutoCorrellation (K,R):  Lag:3"
+"Binary AutoCorrellation (K,R):  Lag:4"
+"Binary AutoCorrellation (K,R):  Lag:5"
+"Binary AutoCorrellation (K,R):  Lag:6"
+"Binary AutoCorrellation (K,R):  Lag:9"
+Charge Composition:1
+Charge Composition:2
+Charge Distribution1001
+Charge Distribution2050
+Charge Distribution3025
+Charge Distribution3050
+Charge Transitions:12
+Charge Transitions:13
+Dibasic Cleavage: Known Motif frequency
+Dibasic Cleavage: Total Known Motif counts
+Disorder Propensity Composition:2
+Disorder Propensity Distribution1001
+Disorder Propensity Distribution1050
+Disorder Propensity Distribution1075
+Disorder Propensity Distribution2025
+Disorder Propensity Distribution3075
+Disorder_3:  Mirror K-mer : AAAAC
+Disorder_3:  Mirror K-mer : AACDA
+Disorder_3:  Mirror K-mer : AACDC
+Disorder_3:  Mirror K-mer : ACACA
+Disorder_3:  Mirror K-mer : ACADD
+Disorder_3:  Mirror K-mer : ACCCC
+Disorder_3:  Mirror K-mer : ACCDC
+Disorder_3:  Mirror K-mer : ADACD
+Disorder_3:  Mirror K-mer : ADADC
+Disorder_3:  Mirror K-mer : ADCAC
+Disorder_3:  Mirror K-mer : ADCDA
+Disorder_3:  Mirror K-mer : ADCDC
+Disorder_3:  Mirror K-mer : CAAAC
+Disorder_3:  Mirror K-mer : CAAAD
+Disorder_3:  Mirror K-mer : CAADC
+Disorder_3:  Mirror K-mer : CACCC
+Disorder_3:  Mirror K-mer : CCAAD
+Disorder_3:  Mirror K-mer : CCACD
+Disorder_3:  Mirror K-mer : CCCCC
+Disorder_3:  Mirror K-mer : CCDAD
+F Entropy
+Flexibility (B-values): Min
+Flexibility (B-values):mean
+G Entropy
+H Entropy
+Hydrophobicity Distribution1001
+Hydrophobicity Distribution1025
+Hydrophobicity Distribution2025
+Hydrophobicity Distribution3025
+Hydrophobicity Distribution3050
+Hydrophobicity Distribution3075
+Instability index
+Mutability aaScale - Window size:17 Average-Trimmed MIN
+Mutability aaScale - Window size:17 Trimmed Average
+Mutability aaScale - Window size:7 Average-Trimmed MIN
+Mutability aaScale - Window size:7 MAXIMUM 
+Mutability aaScale - Window size:7 Trimmed Average
+N Entropy
+Net Charge-PH: 5.5
+Net Charge-PH: 6.81
+Net Charge-PH: 7.2
+Net Charge-PH: 7.5
+NormVDWV_3:  Mirror K-mer : AAAFA
+NormVDWV_3:  Mirror K-mer : AAAFF
+NormVDWV_3:  Mirror K-mer : AAFFE
+NormVDWV_3:  Mirror K-mer : AEAAE
+NormVDWV_3:  Mirror K-mer : AEAAF
+NormVDWV_3:  Mirror K-mer : AEAFF
+NormVDWV_3:  Mirror K-mer : AEEAF
+NormVDWV_3:  Mirror K-mer : AEEFF
+NormVDWV_3:  Mirror K-mer : AEFAF
+NormVDWV_3:  Mirror K-mer : AFAEE
+NormVDWV_3:  Mirror K-mer : AFFAE
+NormVDWV_3:  Mirror K-mer : EAAAF
+NormVDWV_3:  Mirror K-mer : EAAFE
+NormVDWV_3:  Mirror K-mer : EAEEF
+NormVDWV_3:  Mirror K-mer : EAFAF
+NormVDWV_3:  Mirror K-mer : EAFEE
+NormVDWV_3:  Mirror K-mer : EEAEE
+NormVDWV_3:  Mirror K-mer : EEAFE
+NormVDWV_3:  Mirror K-mer : EEAFF
+NormVDWV_3:  Mirror K-mer : EEEAF
+NormVDWV_3:  Mirror K-mer : EEEFF
+NormVDWV_3:  Mirror K-mer : EEFAF
+NormVDWV_3:  Mirror K-mer : EFAAF
+NormVDWV_3:  Mirror K-mer : EFEEF
+NormVDWV_3:  Mirror K-mer : FEAFF
+NormVDWV_3:  Mirror K-mer : FEFFF
+Normalized VDWV Composition:1
+Normalized VDWV Composition:2
+Normalized VDWV Distribution1001
+Normalized VDWV Distribution2025
+Normalized VDWV Distribution2050
+P Entropy
+Polarity Composition:2
+Polarity Composition:3
+Polarity Distribution1025
+Polarity Distribution3100
+Polarizability Composition:1
+Polarizability Composition:3
+Polarizability Distribution1001
+Polarizability Distribution1050
+Polarizability Distribution2001
+Polarizability Distribution2075
+Polarizability Transitions:12
+Polarizability Transitions:13
+R Entropy
+S Entropy
+Secondary Str Distribution2075
+Secondary Str Transitions:13
+SecondaryStr_3:  Mirror K-mer : AAACC
+SecondaryStr_3:  Mirror K-mer : AAADC
+SecondaryStr_3:  Mirror K-mer : AADAA
+SecondaryStr_3:  Mirror K-mer : ACAAD
+SecondaryStr_3:  Mirror K-mer : ACADA
+SecondaryStr_3:  Mirror K-mer : ACADC
+SecondaryStr_3:  Mirror K-mer : ACADD
+SecondaryStr_3:  Mirror K-mer : ACCAC
+SecondaryStr_3:  Mirror K-mer : ACDDD
+SecondaryStr_3:  Mirror K-mer : ADCDD
+SecondaryStr_3:  Mirror K-mer : ADDAC
+SecondaryStr_3:  Mirror K-mer : ADDAD
+SecondaryStr_3:  Mirror K-mer : ADDDA
+SecondaryStr_3:  Mirror K-mer : CAADD
+SecondaryStr_3:  Mirror K-mer : CADAD
+SecondaryStr_3:  Mirror K-mer : CCAAD
+SecondaryStr_3:  Mirror K-mer : CCACC
+SecondaryStr_3:  Mirror K-mer : CDCCD
+SecondaryStr_3:  Mirror K-mer : DACAD
+SecondaryStr_3:  Mirror K-mer : DACCD
+SecondaryStr_3:  Mirror K-mer : DCADD
+SecondaryStr_3:  Mirror K-mer : DCDCD
+Solvent Accessibility Composition:1
+Solvent Accessibility Distribution1001
+Solvent Accessibility Distribution1075
+Solvent Accessibility Distribution2001
+Solvent Accessibility Distribution2025
+Solvent Accessibility Distribution3025
+Solvent Accessibility Transitions:23
+SolventA_3:  Mirror K-mer : AAAAH
+SolventA_3:  Mirror K-mer : AAADA
+SolventA_3:  Mirror K-mer : AADAH
+SolventA_3:  Mirror K-mer : AADDA
+SolventA_3:  Mirror K-mer : AAHDA
+SolventA_3:  Mirror K-mer : AAHDD
+SolventA_3:  Mirror K-mer : AAHHA
+SolventA_3:  Mirror K-mer : ADAAD
+SolventA_3:  Mirror K-mer : ADDAD
+SolventA_3:  Mirror K-mer : ADDDD
+SolventA_3:  Mirror K-mer : AHAAH
+SolventA_3:  Mirror K-mer : AHADH
+SolventA_3:  Mirror K-mer : AHDDD
+SolventA_3:  Mirror K-mer : AHDHD
+SolventA_3:  Mirror K-mer : AHHDD
+SolventA_3:  Mirror K-mer : DAADD
+SolventA_3:  Mirror K-mer : DADHD
+SolventA_3:  Mirror K-mer : DDAAH
+SolventA_3:  Mirror K-mer : DDADH
+SolventA_3:  Mirror K-mer : DDDHH
+SolventA_3:  Mirror K-mer : DDHDH
+SolventA_3:  Mirror K-mer : DHHDH
+SolventA_3:  Mirror K-mer : HDAHH
+SolventA_3:  Mirror K-mer : HDHHH
+SubSequence(segment-0)  aaScale:4Atch_2 Average
+SubSequence(segment-0)  aaScale:4Atch_2 Minimum
+SubSequence(segment-0)  aaScale:4Atch_3 Average
+SubSequence(segment-0)  aaScale:4Atch_3 Maximum
+SubSequence(segment-0)  aaScale:4Atch_3 Minimum
+SubSequence(segment-0)  aaScale:4Atch_4 Average
+SubSequence(segment-0)  aaScale:4hp Minimum
+SubSequence(segment-1)  aaScale:4Atch_2 Average
+SubSequence(segment-1)  aaScale:4Atch_2 Minimum
+SubSequence(segment-1)  aaScale:4TOP_IDP Average
+SubSequence(segment-1)  aaScale:4hp Maximum
+SubSequence(segment-1)  aaScale:4hp Minimum
+SubSequence(segment-1)  aaScale:4hw Average
+SubSequence(segment-1)  aaScale:4sa Average
+V Entropy
+Volume aaScale - Window size:7 Average-Trimmed MAX
+Volume aaScale - Window size:7 MAXIMUM 
+Volume aaScale - Window size:7 Trimmed Average
+gg_1 aaScale - Window size:17 Average-Trimmed MIN
+gg_1 aaScale - Window size:17 MAXIMUM 
+gg_1 aaScale - Window size:17 Trimmed Average
+gg_1 aaScale - Window size:7 Average-Trimmed MAX
+gg_10 aaScale - Window size:17 Trimmed Average
+gg_11 aaScale - Window size:17 Average-Trimmed MIN
+gg_11 aaScale - Window size:17 MAXIMUM 
+gg_11 aaScale - Window size:7 Average-Trimmed MAX
+gg_2 aaScale - Window size:7 MAXIMUM 
+gg_3 aaScale - Window size:17 Average-Trimmed MAX
+gg_3 aaScale - Window size:17 Average-Trimmed MIN
+gg_3 aaScale - Window size:17 MINIMUM 
+gg_3 aaScale - Window size:7 Average-Trimmed MAX
+gg_3 aaScale - Window size:7 Average-Trimmed MIN
+gg_3 aaScale - Window size:7 MINIMUM 
+gg_3 aaScale - Window size:7 Trimmed Average
+gg_4 aaScale - Window size:17 Average-Trimmed MAX
+gg_4 aaScale - Window size:17 Average-Trimmed MIN
+gg_4 aaScale - Window size:17 MINIMUM 
+gg_4 aaScale - Window size:17 Trimmed Average
+gg_4 aaScale - Window size:7 Trimmed Average
+gg_5 aaScale - Window size:17 Average-Trimmed MAX
+gg_5 aaScale - Window size:17 MAXIMUM 
+gg_5 aaScale - Window size:17 MINIMUM 
+gg_5 aaScale - Window size:17 Trimmed Average
+gg_5 aaScale - Window size:7 Average-Trimmed MIN
+gg_5 aaScale - Window size:7 Trimmed Average
+gg_6 aaScale - Window size:17 Average-Trimmed MIN
+gg_6 aaScale - Window size:17 MAXIMUM 
+gg_6 aaScale - Window size:17 MINIMUM 
+gg_6 aaScale - Window size:17 Trimmed Average
+gg_6 aaScale - Window size:7 Average-Trimmed MAX
+gg_6 aaScale - Window size:7 Average-Trimmed MIN
+gg_6 aaScale - Window size:7 MAXIMUM 
+gg_6 aaScale - Window size:7 Trimmed Average
+gg_7 aaScale - Window size:17 MAXIMUM 
+gg_7 aaScale - Window size:7 MAXIMUM 
+gg_7 aaScale - Window size:7 Trimmed Average
+gg_8 aaScale - Window size:17 Average-Trimmed MAX
+gg_8 aaScale - Window size:17 Average-Trimmed MIN
+gg_8 aaScale - Window size:17 MAXIMUM 
+gg_8 aaScale - Window size:17 MINIMUM 
+gg_8 aaScale - Window size:17 Trimmed Average
+gg_8 aaScale - Window size:7 Average-Trimmed MAX
+gg_8 aaScale - Window size:7 Average-Trimmed MIN
+gg_8 aaScale - Window size:7 MAXIMUM 
+gg_8 aaScale - Window size:7 Trimmed Average
+gg_9 aaScale - Window size:17 MAXIMUM 
+gg_9 aaScale - Window size:17 Trimmed Average
+hp aaScale - Window size:17 Average-Trimmed MIN
+hp aaScale - Window size:17 MAXIMUM 
+hp aaScale - Window size:17 Trimmed Average
+hp aaScale - Window size:7 Average-Trimmed MAX
+hp aaScale - Window size:7 Average-Trimmed MIN
+hp aaScale - Window size:7 Trimmed Average
+hp2: AAACC
+hp2: AACAA
+hp2: CAAAA
+hp2: CAACC
+hp2: CACCC
+hp2: CCAAC
+ja aaScale - Window size:17 Average-Trimmed MAX
+ja aaScale - Window size:17 MAXIMUM 
+ja aaScale - Window size:17 Trimmed Average
+ja aaScale - Window size:7 Average-Trimmed MAX
+ja aaScale - Window size:7 Average-Trimmed MIN
+ja aaScale - Window size:7 Trimmed Average
+ofer14:  Mirror K-mer : AG
+ofer14:  Mirror K-mer : AI
+ofer14:  Mirror K-mer : AK
+ofer14:  Mirror K-mer : AP
+ofer14:  Mirror K-mer : CG
+ofer14:  Mirror K-mer : CK
+ofer14:  Mirror K-mer : DE
+ofer14:  Mirror K-mer : DF
+ofer14:  Mirror K-mer : EG
+ofer14:  Mirror K-mer : GG
+ofer14:  Mirror K-mer : GI
+ofer14:  Mirror K-mer : HI
+ofer14:  Mirror K-mer : IN
+ofer14:  Mirror K-mer : IS
+ofer14:  Mirror K-mer : KK
+ofer14:  Mirror K-mer : KN
+ofer14:  Mirror K-mer : KS
+ofer14:  Mirror K-mer : NS
+ofer14:  Mirror K-mer : SS
+ofer_w8: A Entropy
+ofer_w8: AA: A Frequency
+ofer_w8: AA: C Frequency
+ofer_w8: AA: G Frequency
+ofer_w8: AA: N Frequency
+ofer_w8: F Entropy
+ofer_w8: G Entropy
+ofer_w8: M Entropy
+ofer_w8: N Entropy
+polarizability aaScale - Window size:17 Average-Trimmed MAX
+polarizability aaScale - Window size:17 Average-Trimmed MIN
+polarizability aaScale - Window size:17 Trimmed Average
+polarizability aaScale - Window size:7 Average-Trimmed MAX
+polarizability aaScale - Window size:7 Average-Trimmed MIN
+polarizability aaScale - Window size:7 MAXIMUM 
+polarizability aaScale - Window size:7 Trimmed Average

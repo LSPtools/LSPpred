@@ -79,8 +79,10 @@ Ofer, Dan, and Michal Linial. "ProFET: Feature engineering captures high-level p
 ## Citation
 
 ```
-Definitely Maybe: Predicting leaderless secretory proteins in plants without a gold standard 
-Andrew Lonsdale, Melissa J. Davis, Monika S. Doblin and Tony Bacic. 
+LSPpred suite: tools for leaderless secretory protein prediction in plants
+
+Andrew Lonsdale, Laura Ceballos-Laita , Daisuke Takahashi, Matsuo Uemura, Javier Abadía, Melissa J. Davis, Antony Bacic and Monika S. Doblin*. 
+
 In Preparation.
 ```
 

@@ -1,0 +1,7 @@
+#!/usr/bin/env bash 
+
+file="$(cd "$(dirname "$1")"; pwd -P)/$(basename "$1")"
+echo "# LSPpred verision 1.0.0"
+docker run  -v $file:$file testlsp lsp $file 
+
+

@@ -12,6 +12,8 @@ RUN pip install -r requirements.txt
 
 # copy the content of the local src directory to the working directory
 COPY src/ .
+COPY model/ .
+COPY test/ .
 
 # command to run on container start
-CMD [ "python", "./server.py" ]
+ENTRYPOINT [ "python", "./predtemplate.py" ]
